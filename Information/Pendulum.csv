@@ -1,47 +1,47 @@
-Seat,Party,Margin
-Bundaberg,ALP,0.0%
-Nicklin,ALP,0.1%
-Currumbin,LNP,0.5%
-Coomera,LNP,1.1%
-Burleigh,LNP,1.2%
-Chatsworth,LNP,1.2%
-Glass House,LNP,1.6%
-Clayfield,LNP,1.6%
-Hervey Bay,ALP,2.0%
-Everton,LNP,2.2%
-Caloundra,ALP,2.5%
-Barron River,ALP,3.1%
-Townsville,ALP,3.1%
-Thuringowa,ALP,3.2%
-Whitsunday,LNP,3.3%
-Theodore,LNP,3.3%
-Moggill,LNP,3.6%
-Redlands,ALP,3.9%
-Mundingburra,ALP,3.9%
-Ninderry,LNP,4.1%
-Mermaid Beach,LNP,4.4%
-Oodgeroo,LNP,4.5%
-Aspley,ALP,5.2%
-Pumicestone,ALP,5.3%
-Buderim,LNP,5.3%
-South Brisbane,GRN,5.3%
-Southport,LNP,5.4%
-Cairns,ALP,5.6%
-Keppel,ALP,5.6%
-Redcliffe,ALP,6.1%
-Cook,ALP,6.3%
-Maiwar,GRN,6.3%
-Mackay,ALP,6.7%
-Pine Rivers,ALP,6.7%
-Mansfield,ALP,6.8%
-Buderim,LNP,7.0%
-Toowoomba North,LNP,7.3%
-Gaven,ALP,7.8%
-Springwood,ALP,8.3%
-Gympie,LNP,8.5%
-Rockhampton,ALP,8.6%
-Mirani,ONP,9.0%
-Maroochydore,LNP,9.1%
-Kawana,LNP,9.3%
-Macalister,ALP,9.5%
-Capalaba,ALP,9.9%
+Seat,Party,Margin,v
+Bundaberg,ALP,0.0%,LNP
+Nicklin,ALP,0.1%,LNP
+Currumbin,LNP,0.5%,ALP
+Coomera,LNP,1.1%,ALP
+Burleigh,LNP,1.2%,ALP
+Chatsworth,LNP,1.2%,ALP
+Glass House,LNP,1.6%,ALP
+Clayfield,LNP,1.6%,ALP
+Hervey Bay,ALP,2.0%,LNP
+Everton,LNP,2.2%,ALP
+Caloundra,ALP,2.5%,LNP
+Barron River,ALP,3.1%,LNP
+Townsville,ALP,3.1%,LNP
+Thuringowa,ALP,3.2%,LNP
+Whitsunday,LNP,3.3%,ALP
+Theodore,LNP,3.3%,ALP
+Moggill,LNP,3.6%,ALP
+Redlands,ALP,3.9%,LNP
+Mundingburra,ALP,3.9%,LNP
+Ninderry,LNP,4.1%,ALP
+Mermaid Beach,LNP,4.4%,ALP
+Oodgeroo,LNP,4.5%,ALP
+Aspley,ALP,5.2%,LNP
+Pumicestone,ALP,5.3%,LNP
+Buderim,LNP,5.3%,ALP
+South Brisbane,GRN,5.3%,ALP
+Southport,LNP,5.4%,ALP
+Cairns,ALP,5.6%,LNP
+Keppel,ALP,5.6%,LNP
+Redcliffe,ALP,6.1%,LNP
+Cook,ALP,6.3%,LNP
+Maiwar,GRN,6.3%,LNP
+Mackay,ALP,6.7%,LNP
+Pine Rivers,ALP,6.7%,LNP
+Mansfield,ALP,6.8%,LNP
+Buderim,LNP,7.0%,ALP
+Toowoomba North,LNP,7.3%,ALP
+Gaven,ALP,7.8%,LNP
+Springwood,ALP,8.3%,LNP
+Gympie,LNP,8.5%,ALP
+Rockhampton,ALP,8.6%,LNP
+Mirani,ONP,9.0%,ALP
+Maroochydore,LNP,9.1%,ALP
+Kawana,LNP,9.3%,ALP
+Macalister,ALP,9.5%,LNP
+Capalaba,ALP,9.9%,LNP
